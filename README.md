@@ -20,7 +20,7 @@ I am a detail-oriented Data Analyst with a strong passion for transforming raw d
 Python | SQL ,MySQL
 
 **Data Visualization Tools:**
-Power BI | Tableau | Excel
+Power BI | Tableau | Excel  
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
