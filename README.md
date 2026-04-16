@@ -34,6 +34,8 @@ Power BI | Tableau | Excel
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Arpit9516&theme=tokyonight)
 
+---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 ## 📊 Key Skills
 
@@ -66,15 +68,15 @@ Translating complex data into simple, actionable insights
 
 ## 📂 Featured Projects
 
-🔸 **Sales Dashboard (Power BI)**
+🔸 **Insurance Data ( Excel + MySql + Python + Power BI )**
 
 * Built an interactive dashboard to track KPIs and sales performance
 
-🔸 **Customer Segmentation (Python)**
+🔸 ** Student Depression (Python+machine Learning)**
 
-* Applied clustering techniques to segment customers for targeted marketing
+* 
 
-🔸 **UPI Transaction Analysis (Excel + SQL + Python + Power bi)**
+🔸 **UPI Transaction Analysis (Excel + Mysql + Python + Power bi)**
 
 * Analyzed transaction patterns and trends using real-world datasets
 
@@ -82,10 +84,11 @@ Translating complex data into simple, actionable insights
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/taranjeet-kaur-479/
+💼 LinkedIn: www.linkedin.com/in/arpit-methil-87057526a
 📧 Email: [arpitmethil01@gmail.com](mailto:arpitmethil01@gmail.com)
 
 ---
+<img src="https://raw.githubusercontent.com/Arpit9516/Arpit9516/main/analysis.png" width="100%"/>
 
 ⭐ *Always open to opportunities, collaborations, and learning new technologies!*
 
